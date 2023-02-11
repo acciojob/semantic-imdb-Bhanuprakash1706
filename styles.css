@@ -1,2 +1,29 @@
 
 /* Your CSS Code here. */
+header{
+	background-color:skyblue;
+	padding:5px;
+	 
+}
+summary,aside{
+	background-color:skyblue;
+	padding:10px;
+}
+section{
+	background-color:cyan;
+	padding:15px;
+}
+nav,footer{
+	background-color:cyan;
+	padding:1px;
+}
+a{
+	text-decoration:none;
+	font:bold;
+	font-size:24px;
+	background-color:skyblue;
+	color:black;
+	padding:5px;
+	margin:90px;
+	border-radius:5px;
+}
